@@ -503,6 +503,7 @@
 							<td colspan="6">&nbsp;&nbsp;<img
 								src="/lawyer/images/flag2_16x16.gif" />&nbsp;诉讼阶段</td>
 						</tr>
+						cont.litigation
 						<!--二层if - -->
 						<s:if test="cont.litigation!=null">
 							<tr>
